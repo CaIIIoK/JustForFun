@@ -19,5 +19,7 @@ public class Main {
         for(Integer a : arr){
             System.out.println("Value: " + a);
         }
+
+        System.out.println("Third");
     }
 }
